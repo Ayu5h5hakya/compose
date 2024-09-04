@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="give_color">#9DE7A8</color>
+    <color name="dark_green">#50B960</color>
+    <color name="request_color">#FFEEB4 </color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--
+        <color name="lightgren">#1E70B7FF</color>
+    -->
+    <color name="lightgren">#E8F5F7</color>
+    <color name="shadeblue">#0099E5</color>
+    <color name="lightblue">#9BCAF2</color>
+    <color name="dark_blue">#1E70B7</color>
+    <color name="dark_blue_3">#331E70B7</color>
+    <color name="dark_blue_2">#14142A</color>
+    <color name="dark_grey">#777575</color>
+    <color name="grey">#C7C7C7</color>
+    <color name="grey_2">#DADADA</color>
+    <color name="grey_3">#DE000000</color>
+    <color name="card_grey">#E6E6E6</color>
+    <color name="month_grey">#D8D6D6</color>
+    <color name="line_grey">#F6F4F4</color>
+    <color name="bg_grey">#FDFDFD</color>
+    <color name="dgrey">#7A7878</color>
+    <color name="notification_red">#F44336</color>
+    <color name="brown_grey">#8E8475</color>
+    <color name="dark_seagreen">#245D4C</color>
+    <color name="national_holiday">#2CC676</color>
+    <color name="national_holiday_r">#C0EED6</color>
+    <color name="employee_holiday">#467AEC</color>
+    <color name="local_holiday">#EE9D3C</color>
+    <color name="requested_holiday">#FFDF43</color>
+    <color name="transparentdarkgrey">#77434343</color>
+    <color name="rejected_status">#33FB8A76</color>
+    <color name="rejected_text">#FB8A76</color>
+    <color name="approved_status">#332CC676</color>
+
+    <color name="colorAccent">#0099E5</color>
+    <color name="daysLabelColor">#8A000000</color>
+    <color name="currentMonthDayColor">#de000000</color>
+    <color name="nextMonthDayColor">#1F000000</color>
+    <color name="disabledDialogButtonColor">#1F000000</color>
+
+    <color name="itemHighlightColor">#1F000000</color>
+    <color name="itemFocusedColor">#1A000000</color>
+
+    <color name="defaultColor">#2962FF</color>
+</resources>

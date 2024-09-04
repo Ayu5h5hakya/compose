@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">ComposeApplication</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="employee_management_made_easily_organise_n_your_daily_working_routine_easily">Employee Management Made Easily,Organise\nYour Daily Working Routine Easily</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_existing_employee_management_account">Login to Your Existing Employee Management Account.</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgotpassword">Forgot Password !</string>
+    <string name="please_enter_your_registered_email_id">Please Enter Your Registered Email ID</string>
+    <string name="submit">Submit</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_label">Enter label</string>
+    <string name="EnterValidEmail">Enter valid email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="my_journey">My Journey</string>
+    <string name="journey">Journey</string>
+    <string name="trunk">Trunk</string>
+    <string name="home">Home</string>
+    <string name="jobs">Jobs</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="holiday">Holiday</string>
+    <string name="requests">Requests</string>
+    <string name="start_journey">Start Journey</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="itinearary">Itinerary</string>
+    <string name="selectitinearary">Select itinerary</string>
+    <string name="otherlabel">Other itinerary label</string>
+    <string name="client_visit">Client Visit</string>
+    <string name="other">Other</string>
+    <string name="work">Work</string>
+    <string name="rest">Break</string>
+    <string name="end_journey">End Journey</string>
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="date">Date</string>
+    <string name="hours">Hours</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="extraHours">Extra</string>
+    <string name="no_history_found_of_this_month">No History found of this month</string>
+    <string name="tools">Tools</string>
+    <string name="cars">Cars</string>
+    <string name="request">Request</string>
+    <string name="search">Search</string>
+    <string name="There_no_Car">There\'s no car,please check your car name</string>
+    <string name="There_no_tool">There\'s no tool,please check your tool name.</string>
+    <string name="request_car">Request Car</string>
+    <string name="next">Next</string>
+    <string name="give_tool">Give Tool</string>
+    <string name="select_co_worker">Select Co-Worker</string>
+    <string name="co_worker_name">Co-worker Name</string>
+    <string name="grantlocationpermission">Go to Settings and Grant the location permission</string>
+    <string name="grantStoragepermission">Go to Settings and Grant the storage permission</string>
+    <string name="EnableGPS">Enable GPS</string>
+    <string name="LocationPermission">Location Permission</string>
+    <string name="StoragePermission">Storage Permission</string>
+    <string name="gpsisenabled">Please ensure gps is enabled with high accuracy</string>
+    <string name="want_to_give_this_tool">Want to give this tool :</string>
+    <string name="observation">Observation</string>
+    <string name="signature_here">Signature here</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="give_your_tool">Give Your Tool</string>
+    <string name="request_tool">Request Tool</string>
+    <string name="car_tool">Request Car</string>
+    <string name="request_epi">Request EPI</string>
+    <string name="request_tool_holder_name">Request Tool Holder Name</string>
+    <string name="want_to_request_this_tool">Want to request this tool:</string>
+    <string name="choose_your_date">Choose Your Date</string>
+    <string name="enter_itinerary_label">Enter the itinerary label</string>
+    <string name="choose_your_time">Choose Your Time</string>
+    <string name="accept">Accept</string>
+    <string name="epi">EPI</string>
+    <string name="Sent">Sent</string>
+    <string name="Received">Received</string>
+    <string name="select_option_to_filter_the_data">Select option to filter the data.</string>
+    <string name="only_closed">Only Closed</string>
+    <string name="only_pending">Pending</string>
+    <string name="only_tool">Tool</string>
+    <string name="only_car">Car</string>
+    <string name="only_signature">Only Signature</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="job_role">Job Role</string>
+    <string name="my_documents">My Documents</string>
+    <string name="you_can_check_your_job_responsibilities_and_do_s_and_don_t">You can check your job responsibilities and do\'s and don\'t</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="addFile">Add File</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="update_password">Update Password</string>
+    <string name="EnterOldPassword">Enter Old Password</string>
+    <string name="EnterNewPassword">Enter New Password</string>
+    <string name="EnterConfirmPassword">Enter Confirm Password</string>
+    <string name="EnterCorrectNewPassword">Enter Correct New Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="user_name">User Name</string>
+    <string name="birth_date">Birth date</string>
+    <string name="street">Street</string>
+    <string name="landmark">Landmark</string>
+    <string name="notification">Notification Detail</string>
+    <string name="notificationdetail">Notification Detail</string>
+    <string name="city">City</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="EnterUsername">Enter Username</string>
+    <string name="EnterBirtdate">Enter Birtdate</string>
+    <string name="EnterCity">Enter City</string>
+    <string name="EnterState">Enter State</string>
+    <string name="Enter_zipcode">Enter Zipcode</string>
+    <string name="EnterCountryName">Enter Country Name</string>
+    <string name="office">Office</string>
+    <string name="tasks">Tasks</string>
+    <string name="allocated_jobs">Allocated Jobs</string>
+    <string name="assigned">Assigned</string>
+    <string name="myjobs">My Jobs</string>
+    <string name="mydocuments">My Documents</string>
+    <string name="don_t_do_s">Don\'t Do\'s</string>
+    <string name="do_s">Do\'s</string>
+    <string name="Loading">Loading</string>
+    <string name="timeouterror">Internet connection is not available. Please check your internet connection</string>
+    <string name="authenticationFailure">Authentication Failure while performing the request</string>
+    <string name="networkerror">Network error</string>
+    <string name="parseerror">Parse error</string>
+    <string name="no_data_found">No data found</string>
+    <string name="Give">Give</string>
+    <string name="toolHolder">Tool Holder</string>
+    <string name="carHolder">Car Holder</string>
+    <string name="epiHolder">EPI Holder</string>
+    <string name="job_detail">Job Detail</string>
+    <string name="attachment">Attachment</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="address">Address</string>
+    <string name="job_emergency">Job Emergency</string>
+    <string name="contact_no">Contact no.</string>
+    <string name="employee_incharge">Employee Incharge</string>
+    <string name="zip_code">Zip code</string>
+    <string name="finished">finished</string>
+    <string name="in_progress">In-Progress</string>
+    <string name="are_you_sure_you_want_to_accept_the_request">Are you sure? you want to accept the request?</string>
+    <string name="reject">Reject</string>
+    <string name="are_you_sure_you_want_to_cancel_the_request">Are you sure? you want to cancel the request?</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="view_detail">View detail</string>
+    <string name="name_internal_id">Name(Internal ID)</string>
+    <string name="mark">Mark</string>
+    <string name="model">Model</string>
+    <string name="sr_no">Sr. No.</string>
+    <string name="holder">Holder</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="id">ID</string>
+    <string name="report">Report</string>
+    <string name="admin">Admin</string>
+    <string name="add_attachment">Add Attachment</string>
+    <string name="addphoto">Add Photo!</string>
+    <string name="Selectedfilemustbelessthan2MB">Selected file must be less than 2MB</string>
+    <string name="comment">Comment</string>
+    <string name="renew">Renew</string>
+    <string name="manual">Manual</string>
+    <string name="region">Region</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="JobName">Job Name</string>
+    <string name="JobID">Job ID</string>
+    <string name="download">Download</string>
+    <string name="gender">Gender</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="SelectGender">Select Gender</string>
+    <string name="EnterRegion">Enter Region</string>
+    <string name="EnterDate">Enter Date</string>
+    <string name="EnterTime">Enter Time</string>
+    <string name="SelectAttachments">Select Attachments</string>
+    <string name="give_car">Give Car</string>
+    <string name="give_epi">Give EPI</string>
+    <string name="want_to_request_this_car">Want to request this car</string>
+    <string name="request_car_holder_name">Request Car Holder Name</string>
+    <string name="want_to_request_this_epi">Want to request this EPI</string>
+    <string name="request_epi_holder_name">Requesr EPI Holder name</string>
+    <string name="want_to_give_this_car">Want to give this car</string>
+    <string name="want_to_give_this_epi">Want to give this EPI</string>
+    <string name="give_your_epi">Give Your EPI</string>
+    <string name="give_your_car">Give Your Car</string>
+    <string name="you_have_no_new_notification_right_now">You have no new notification right now</string>
+    <string name="finished_job">Finished Job</string>
+    <string name="enterComment">Enter comment</string>
+    <string name="add_address">Add Address</string>
+    <string name="in">IN</string>
+    <string name="out">OUT</string>
+    <string name="mar">Mar</string>
+    <string name="you_can_check_your_all_jobs">You can check your all jobs</string>
+    <string name="you_can_check_your_all_documents">You can check your all documents</string>
+    <string name="warehouse">Warehouse</string>
+    <string name="pending">Pending</string>
+    <string name="car_holder">Car Holder</string>
+    <string name="reschedule_job">Reschedule Job</string>
+    <string name="Initiated">Initiated</string>
+    <string name="Paused">Paused</string>
+    <string name="Reschedule">Reschedule</string>
+    <string name="Finished">Finished</string>
+    <string name="Pleaseselectthedate">Please select the date</string>
+    <string name="Pleaseselectthetime">Please select the time</string>
+    <string name="Downloading">Downloading</string>
+    <string name="DownloadingFile">Downloading File</string>
+    <string name="All">All</string>
+    <string name="Completed">Completed</string>
+    <string name="Pleaseentersignature">Please enter signature</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="ok">Ok</string>
+    <string name="Totalworkinghours">Total working hours</string>
+    <string name="Contractedhours">Contracted hours</string>
+    <string name="START">START</string>
+    <string name="E_ND">END</string>
+    <string name="AT">AT</string>
+    <string name="Trunk">Trunk</string>
+    <string name="end_journey_confirmation">Are you sure you want to end journey?</string>
+    <string name="Adminassignedyoua">Admin assigned you a </string>
+    <string name="Pleaseselectthelanguage">Please select the language</string>
+    <string name="default_notification_channel_id" translatable="false">wilpin_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Wilpin</string>
+    <string name="national">National/Local</string>
+    <string name="employee">Employee</string>
+    <string name="local">Local</string>
+    <string name="requested">Requested</string>
+    <string name="medical">Medical</string>
+    <string name="total_holidays">Total Holidays</string>
+    <string name="medical_leaves">Medical leaves</string>
+    <string name="personal_leaves">Personal leaves</string>
+    <string name="close">Close</string>
+    <string name="holiday_request">Holiday Request</string>
+    <string name="full_day">Full Day</string>
+    <string name="medical_leave">Medical Leave</string>
+    <string name="add_observation">Add observation</string>
+    <string name="request_holiday">Request Holiday</string>
+    <string name="write_an_observation">Write an observation</string>
+    <string name="choose_start_time">Choose Start Time</string>
+    <string name="choose_end_time">Choose End Time</string>
+    <string name="enddate_startdate_validation">"End date cannot come before start date"</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="starttime_required">Start time is required</string>
+    <string name="endtime_required">End time is required</string>
+    <string name="holidayRequestSuccess">Holiday Requested Successfully</string>
+    <string name="no_holiday_requests_found">No Holiday requests found</string>
+    <string name="observation_required">Observation is required</string>
+    <string name="event_already_present">This date already has an event assigned</string>
+    <string name="request_submitted">Your request has been submitted.</string>
+    <string name="goto_dashboard">Back to Dashboard</string>
+    <string name="select_start_first">Please select Start Time first</string>
+    <string name="endtime_before_starttime">End Time cannot come before start time</string>
+    <string name="please_select_the_final_date_of_your_holiday">Please select the final date of your holiday</string>
+    <string name="different_itinerary_record">Please enter a different itinerary record</string>
+
+
+    <string name="material_calendar_monday">M</string>
+    <string name="material_calendar_tuesday">T</string>
+    <string name="material_calendar_wednesday">W</string>
+    <string name="material_calendar_thursday">T</string>
+    <string name="material_calendar_friday">F</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">S</string>
+
+    <array name="material_calendar_day_abbreviations_array">
+        <item>@string/material_calendar_sunday</item>
+        <item>@string/material_calendar_monday</item>
+        <item>@string/material_calendar_tuesday</item>
+        <item>@string/material_calendar_wednesday</item>
+        <item>@string/material_calendar_thursday</item>
+        <item>@string/material_calendar_friday</item>
+        <item>@string/material_calendar_saturday</item>
+    </array>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+
+
+</resources>
